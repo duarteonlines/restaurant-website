@@ -1,0 +1,23 @@
+.card {
+    width: 40%;
+    margin: 30px auto;
+    background-color: grey;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card p {
+    font-size: 13px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.sobre {
+    height: 100vh;
+}
